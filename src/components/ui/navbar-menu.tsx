@@ -1,10 +1,12 @@
 "use client";
 import React, { AnchorHTMLAttributes } from "react";
 import { motion } from "framer-motion";
+import type { Transition } from "framer-motion";
+
 import Image from "next/image";
 
 // Motion transition configuration
-const transition = {
+const transition: Transition = {
   type: "spring",
   mass: 0.5,
   damping: 11.5,
