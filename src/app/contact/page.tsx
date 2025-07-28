@@ -5,7 +5,7 @@ import React from "react";
 import { cn } from "@/lib/utils";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-import Footer from "@/components/Footer";
+
 
 const page = () => {
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {

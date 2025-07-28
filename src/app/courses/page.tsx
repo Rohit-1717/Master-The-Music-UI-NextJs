@@ -20,7 +20,7 @@ const page = () => {
       <h1 className="text-lg md:text-5xl font-sans  text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 font-bold tracking-wide uppercase antialiased">
         All Courses ( {courseData.courses.length} )
       </h1>
-      <div className="flex flex-wrap justify-center gap-8">
+      <div  className="flex flex-wrap justify-center gap-8">
         {courseData.courses.map((course: Course) => (
           <CardContainer className="inter-var">
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
