@@ -1,0 +1,204 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar for Beginners",
+      "slug": "guitar-for-beginners",
+      "description": "Start your music journey with basic guitar chords, strumming, and tunes.",
+      "price": "₹4,980",
+      "instructor": "Arjun Verma",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1726711238687-0f3ad1f4dea0?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 2,
+      "title": "Piano Essentials",
+      "slug": "piano-essentials",
+      "description": "Learn piano basics, music theory, and play your first songs with ease.",
+      "price": "₹6,640",
+      "instructor": "Sneha Malhotra",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1552422535-c45813c61732?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training - Level 1",
+      "slug": "vocal-training-level-1",
+      "description": "Improve your pitch, tone, and vocal range with professional exercises.",
+      "price": "₹5,810",
+      "instructor": "Ankita Joshi",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/flagged/photo-1568777567165-aaaa23be84a1?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 4,
+      "title": "Indian Classical Music Basics",
+      "slug": "indian-classical-basics",
+      "description": "Dive into ragas, taals, and surs of Indian classical music.",
+      "price": "₹7,470",
+      "instructor": "Raghav Iyer",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1633411988188-6e63354a9019?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 5,
+      "title": "Drum Beats Mastery",
+      "slug": "drum-beats-mastery",
+      "description": "Master rhythms, grooves, and coordination on the drum kit.",
+      "price": "₹8,300",
+      "instructor": "Kunal Rao",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1701590223282-f137316edea0?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory 101",
+      "slug": "music-theory-101",
+      "description": "Understand the foundation of music: notes, scales, chords, and harmony.",
+      "price": "₹4,140",
+      "instructor": "Anjali Sinha",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1626539896924-b328af4ef01d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 7,
+      "title": "Digital Music Production",
+      "slug": "digital-music-production",
+      "description": "Create and produce music using FL Studio, Ableton, or Logic Pro.",
+      "price": "₹10,790",
+      "instructor": "Yash Kapoor",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1630965764686-159c575031b3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 8,
+      "title": "Singing for Stage",
+      "slug": "singing-for-stage",
+      "description": "Learn to perform live with confidence and stage presence.",
+      "price": "₹6,220",
+      "instructor": "Reema Das",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1597169428801-7c1adf2623bd?q=80&w=902&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 9,
+      "title": "Ukulele Basics",
+      "slug": "ukulele-basics",
+      "description": "Pick up the ukulele and play popular tunes in just weeks.",
+      "price": "₹3,320",
+      "instructor": "Ritika Jain",
+      "isFeatured": false,
+      "image": "https://plus.unsplash.com/premium_photo-1680615211786-5da8d9b0090c?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 10,
+      "title": "Rap & Hip-Hop Vocal Flow",
+      "slug": "rap-hiphop-vocal-flow",
+      "description": "Master lyrical flow, rhythm, and voice delivery for rap vocals.",
+      "price": "₹7,470",
+      "instructor": "Amaan Raza",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1661678097146-997ef05ba6a6?q=80&w=922&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 11,
+      "title": "Advanced Guitar Solos",
+      "slug": "advanced-guitar-solos",
+      "description": "Learn lead guitar techniques, improvisation, and solo composition.",
+      "price": "₹9,500",
+      "instructor": "Arjun Verma",
+      "isFeatured": false,
+      "image": "https://plus.unsplash.com/premium_photo-1726711238687-0f3ad1f4dea0?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 12,
+      "title": "Carnatic Music Foundations",
+      "slug": "carnatic-music-foundations",
+      "description": "Get introduced to swaras, alankaras, and talas of Carnatic music.",
+      "price": "₹6,200",
+      "instructor": "Bhavna Ravi",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1633411988188-6e63354a9019?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 13,
+      "title": "Film Scoring Essentials",
+      "slug": "film-scoring-essentials",
+      "description": "Compose cinematic music for movies and short films using digital tools.",
+      "price": "₹11,200",
+      "instructor": "Rahul Mehta",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1630965764686-159c575031b3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 14,
+      "title": "Stage Sound Engineering",
+      "slug": "stage-sound-engineering",
+      "description": "Learn live sound setup, EQ, mic placement, and mixing basics.",
+      "price": "₹8,990",
+      "instructor": "Nikhil Jain",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1701590223282-f137316edea0?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 15,
+      "title": "Bollywood Singing Styles",
+      "slug": "bollywood-singing-styles",
+      "description": "Sing with emotion and nuance, mimicking Bollywood legends.",
+      "price": "₹7,280",
+      "instructor": "Pooja Sharma",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/flagged/photo-1568777567165-aaaa23be84a1?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 16,
+      "title": "Harmonium Mastery",
+      "slug": "harmonium-mastery",
+      "description": "Explore Indian folk and classical melodies on the harmonium.",
+      "price": "₹6,540",
+      "instructor": "Gaurav Joshi",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1626539896924-b328af4ef01d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 17,
+      "title": "Choral Singing Techniques",
+      "slug": "choral-singing-techniques",
+      "description": "Join harmony-focused choral sessions for group vocal training.",
+      "price": "₹5,750",
+      "instructor": "Aisha Menon",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1597169428801-7c1adf2623bd?q=80&w=902&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 18,
+      "title": "DJing & Live Mixing",
+      "slug": "djing-live-mixing",
+      "description": "Get started with turntables, controllers, and beat-matching basics.",
+      "price": "₹9,890",
+      "instructor": "DJ Manav",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1680615211786-5da8d9b0090c?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 19,
+      "title": "Sound Design for Games",
+      "slug": "sound-design-games",
+      "description": "Design immersive audio environments for game development.",
+      "price": "₹10,300",
+      "instructor": "Siddharth Kumar",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1630965764686-159c575031b3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "id": 20,
+      "title": "Composing for Ads & Jingles",
+      "slug": "composing-ads-jingles",
+      "description": "Write catchy tunes and hooks for ads, radio, and brands.",
+      "price": "₹7,990",
+      "instructor": "Kriti Bhatia",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1626539896924-b328af4ef01d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0"
+    }
+  ]
+}
