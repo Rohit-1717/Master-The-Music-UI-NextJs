@@ -2,14 +2,12 @@ import Link from "next/link";
 import courseData from "../data/courses-data.json";
 import { Button } from "./ui/moving-border";
 import { WobbleCard } from "./ui/wobble-card";
+import Image from "next/image";
 
 interface Course {
   id: number;
   title: string;
-  slug: string;
   description: string;
-  price: number;
-  instructor: string;
   isFeatured: boolean;
   image: string;
 }
@@ -43,7 +41,7 @@ function FeaturedCourses() {
                   {course.description}
                 </p>
 
-                <img
+                <Image
                   src={course.image}
                   width={500}
                   height={500}
